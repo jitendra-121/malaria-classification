@@ -95,12 +95,17 @@ activation = 'GELU'   # Activation function
 ```
 malaria-classification/
 ├── exp1_5.ipynb           # Main notebook with complete implementation
+├── requirements (1).ipynb # Requirements and dependencies notebook
 ├── results/               # Training results and screenshots
 │   ├── Screenshot 2025-06-15 at 7.34.29 PM.png
 │   ├── Screenshot 2025-06-15 at 7.34.35 PM.png
 │   ├── Screenshot 2025-06-15 at 7.34.46 PM.png
 │   └── Screenshot 2025-06-20 at 4.39.15 PM.png  # Architecture diagram
-└── README.md             # This file
+├── .git/                  # Git repository files
+├── .gitattributes         # Git attributes configuration
+├── .gitignore            # Git ignore rules
+├── .DS_Store             # macOS system file
+└── README.md             # This documentation file
 ```
 
 ## 🚀 Getting Started
