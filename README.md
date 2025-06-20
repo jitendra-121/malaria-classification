@@ -94,8 +94,9 @@ activation = 'GELU'   # Activation function
 
 ```
 malaria-classification/
-├── exp1_5.ipynb           # Main notebook with complete implementation
-├── requirements (1).ipynb # Requirements and dependencies notebook
+|-code files/
+├-── exp1_5.ipynb           # Main notebook with complete implementation
+├─-─ requirements (1).ipynb # Requirements and dependencies notebook
 ├── results/               # Training results and screenshots
 │   ├── Screenshot 2025-06-15 at 7.34.29 PM.png
 │   ├── Screenshot 2025-06-15 at 7.34.35 PM.png
