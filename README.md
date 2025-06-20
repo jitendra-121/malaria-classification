@@ -7,6 +7,7 @@ This project implements an advanced deep learning model for malaria parasite cla
 ## 🏗️ Architecture
 
 ### Proposed Model Architecture
+<img width="419" alt="Screenshot 2025-06-20 at 4 39 15 PM" src="https://github.com/user-attachments/assets/f8f336c3-5fc3-4a44-ac7f-17b43308800f" />
 
 ![ViT-KANMoE Architecture](./results/Screenshot%202025-06-20%20at%204.39.15%20PM.png)
 
