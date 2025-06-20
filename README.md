@@ -121,7 +121,7 @@ pip install torch torchvision timm numpy scikit-learn matplotlib seaborn tqdm te
 - tqdm
 
 ### Dataset Structure
-The model expects data in the following format:
+This project uses a **private malaria dataset** for classification. The model expects data in the following format:
 ```
 data/
 ├── train_2023/
@@ -135,6 +135,8 @@ data/
     ├── ...
     └── class_6/
 ```
+
+**Note**: The dataset used in this project is proprietary and not publicly available. If you wish to use this model architecture, you can adapt it to work with publicly available malaria datasets or your own dataset following the same directory structure.
 
 ### Running the Model
 
